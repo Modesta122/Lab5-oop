@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tugas Pemograman Web 2
 ## Profil
 | #               | Biodata           |
@@ -283,3 +284,6 @@ class Form
 ![Hasil](img/hasil 3.png)
 
 # Terima Kasih!
+=======
+# Lab5-oop
+>>>>>>> 75fb4af02e95df927f3aae5df173f167713fd86b
